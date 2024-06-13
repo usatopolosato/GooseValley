@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="9" height="5" tilewidth="55" tileheight="55" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="road.tsx"/>
+ <layer id="1" name="Слой тайлов 1" width="9" height="5">
+  <data encoding="base64" compression="zlib">
+   eJwNw4kSgVAAAMBHUa6olCvkJvz/77U7s4MQwtDI2JFjE1MnTp05d2Hm0pW5haVrK2s3bt2592Dj0ZNnWy9evXn34dOXbz92fv35twf+EAQM
+  </data>
+ </layer>
+</map>
